@@ -13,5 +13,4 @@ function scuberGreetingForFeet(distance) {
       }
 
       return message
-    }
 }
