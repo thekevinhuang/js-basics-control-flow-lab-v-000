@@ -12,5 +12,6 @@ function scuberGreetingForFeet(distance) {
       case distance > 2000:
         message = 'I will gladly take your thirty bucks.'
         break
+      return message
     }
 }
