@@ -1,7 +1,7 @@
 // Write your code in this file!
 function scuberGreetingForFeet(distance) {
     let message
-    
+
     switch (distance) {
       case distance <=400:
         message = 'This one is on me!'
@@ -11,5 +11,6 @@ function scuberGreetingForFeet(distance) {
         break
       case distance > 2000:
         message = 'I will gladly take your thirty bucks.'
+        break
     }
 }
